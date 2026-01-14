@@ -2,7 +2,7 @@ build:
    version: "1.0"
 
 loans:
-   message : "Welcome to vertoz loans releted PRODUCTION APIS"
+   message : "Welcome to vertoz loans releted PROD APIS"
    contactFetails:
      name: "SP Mishra - PRODUCT OWNER"
      email: "spmishra@vertoz.com"
