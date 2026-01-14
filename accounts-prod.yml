@@ -2,7 +2,7 @@ build:
    version: "1.0"
 
 accounts:
-   message: "Welcome to Vertoz accounts related PROD APIs "
+   message: "Welcome to Vertoz accounts related PRODUCTION APIs "
    contactDetails:
      name: "SP Mishra - PRODUCT OWNER"
      email: "{cipher}05a5b5b95b823356b739f2baef74ea10da19f701d6799534bc4f4470045aed3d1a9183baa6ca191b2189321acc811ed7"
