@@ -2,7 +2,7 @@ build:
    version: "1.0"
  
 cards:
-   message: "Welcome to Vertoz cards related PROD APIs "
+   message: "Welcome to Vertoz cards related webhook APIs "
    contactDetails:
      name: "SP Mishra - PRODUCT OWNER"
      email: "spmishra@vertoz.com"
